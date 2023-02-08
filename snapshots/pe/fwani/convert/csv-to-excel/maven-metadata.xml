@@ -4,8 +4,8 @@
   <artifactId>csv-to-excel</artifactId>
   <versioning>
     <versions>
-      <version>0.0.1-java17-SNAPSHOT</version>
+      <version>0.0.1-java11-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20230208093034</lastUpdated>
+    <lastUpdated>20230208093143</lastUpdated>
   </versioning>
 </metadata>
