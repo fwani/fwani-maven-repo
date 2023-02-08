@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>pe.fwani.convert</groupId>
+  <artifactId>csv-to-excel</artifactId>
+  <versioning>
+    <lastUpdated>20230208093034</lastUpdated>
+    <snapshot>
+      <timestamp>20230208.093034</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-java17-20230208.093034-1</value>
+        <updated>20230208093034</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-java17-20230208.093034-1</value>
+        <updated>20230208093034</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.0.1-java17-SNAPSHOT</version>
+</metadata>

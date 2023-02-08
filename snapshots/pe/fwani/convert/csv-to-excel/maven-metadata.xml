@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>pe.fwani.convert</groupId>
+  <artifactId>csv-to-excel</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-java17-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230208093034</lastUpdated>
+  </versioning>
+</metadata>
